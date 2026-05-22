@@ -1,0 +1,6 @@
+{
+  "name": "Add issues to Malfence Roadmap",
+  "description": "Automatically add new/reopened issues in this repo to the org Malfence Roadmap project board.",
+  "iconName": "octicon project",
+  "categories": ["Automation"]
+}
