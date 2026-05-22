@@ -15,9 +15,11 @@
 
 ## 👋 About Us
 
-Malfence is an open-source cybersecurity lab focused on **malware defense**, **binary analysis**, and **secure communications**. We build tools that make security accessible — free to use, free to study, free to improve.
+Malfence is an open-source cybersecurity lab building **free, transparent alternatives to commercial security suites** — think antivirus, mail security, EDR, and binary analysis tools, but open from the ground up.
 
-Our mission is simple: **make modern threat defense available to everyone**, from individual developers to enterprises.
+We believe modern threat defense shouldn't be locked behind paywalls or opaque, proprietary engines. Every line of our code is auditable, every detection rule inspectable, every dependency open.
+
+Our mission: **make enterprise-grade cybersecurity available to everyone** — individuals, startups, NGOs, and enterprises alike.
 
 ---
 
