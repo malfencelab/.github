@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Community Discussions
+    url: https://github.com/orgs/malfencelab/discussions
+    about: Ask questions and discuss ideas with the community.
+  - name: 🔐 Report a Security Vulnerability
+    url: https://github.com/malfencelab/.github/blob/main/SECURITY.md
+    about: Please report security issues privately, not via public issues.
+  - name: 📧 Contact Malfence
+    url: mailto:opensource@malfence.com
+    about: Reach the team directly for anything that doesn't fit a template.
